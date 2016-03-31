@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER Ingensi labs <contact@ingensi.com>
+MAINTAINER adeng <343753091@qq.com>
 
 RUN yum update -y
 RUN yum install -y wget
